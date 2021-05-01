@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thedreamwriters
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Web development & design, discord bots, gamification and game design, agile self-development
+- 🌱 I’m currently learning ... Web Development & Design, Python, Reinforcing Better Programming Skills, Education
+- 💞️ I’m looking to collaborate on ... not sure atm. 
 - 📫 How to reach me ... ehryniewi@gmail.com;  [Facebook](https://www.facebook.com/dreamwriteremmy), [Twitter](https://www.twitter.com/thedreamwriters), [LinkedIn](https://www.linkedin.com/en/ehryniewicz)
 
 <!---

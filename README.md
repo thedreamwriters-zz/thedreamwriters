@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web development & design, discord bots, gamification and game design, agile self-development
 - 🌱 I’m currently learning ... Web Development & Design, Python, Reinforcing Better Programming Skills, Education
 - 💞️ I’m looking to collaborate on ... not sure atm. 
-- 📫 How to reach me ... ehryniewi@gmail.com;  [Facebook](https://www.facebook.com/dreamwriteremmy), [Twitter](https://www.twitter.com/thedreamwriters), [LinkedIn](https://www.linkedin.com/en/ehryniewicz)
+- 📫 How to reach me ... ehryniewi@gmail.com;  [Facebook](https://www.facebook.com/dreamwriteremmy), [Twitter](https://www.twitter.com/thedreamwriters), [LinkedIn](https://www.linkedin.com/en/ehryniewicz), thedreamwriters#2623 on Discord
 
 <!---
 thedreamwriters/thedreamwriters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
